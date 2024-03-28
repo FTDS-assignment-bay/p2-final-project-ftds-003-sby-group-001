@@ -14,8 +14,8 @@
 - `.pkl` : Best model with best parameters
 
 ## Meet our teams
-1. Dita Injarwanto - Data Engineer [Github]() [Linkedin]()
-2. Hasan Abdul Hamid - Data Analyst [Github]() [Linkedin]()
+1. Dita Injarwanto - Data Engineer [Github](https://github.com/injarw) [Linkedin]()
+2. Hasan Abdul Hamid - Data Analyst [Github](https://github.com/hasanhmd) [Linkedin]()
 3. Ghassani Nurbaningtyas - Data Scientist [Github](https://github.com/ghssni) [Linkedin](https://www.linkedin.com/in/ghtyas/)
 
 ## References & Further Reads
