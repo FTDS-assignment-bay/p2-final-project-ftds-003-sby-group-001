@@ -1,1 +1,4 @@
 Link Notebook Analisis: https://colab.research.google.com/drive/1J70ELks4pr3Pdg--TAQrbwenKnbQF2Ym?usp=sharing
+
+Link Modeling:
+https://colab.research.google.com/drive/1Huy-6CrNcAiE5NYJWcUHSFI8ghpWOJ9Q#scrollTo=WJ3IBAbxKhDz
